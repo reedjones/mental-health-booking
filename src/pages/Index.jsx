@@ -16,6 +16,8 @@ const Index = () => {
     });
   };
 
+  console.log("hello in react");
+
   return (
     <Container maxW="container.xl" p={4}>
       <Flex direction="column" align="center" justify="center" minHeight="100vh">
