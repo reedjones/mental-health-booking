@@ -20,7 +20,9 @@ const Index = () => {
     <Container maxW="container.xl" p={4}>
       <Flex direction="column" align="center" justify="center" minHeight="100vh">
         <VStack spacing={8}>
-          <Image src="https://images.unsplash.com/photo-1604881991720-f91add269bed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxtZW50YWwlMjBoZWFsdGglMjBzdXBwb3J0fGVufDB8fHx8MTcwNTA5NTkxMnww&ixlib=rb-4.0.3&q=80&w=1080" borderRadius="md" />
+          <Image src="
+          https://images.unsplash.com/photo-1604881991720-f91add269bed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxtZW50YWwlMjBoZWFsdGglMjBzdXBwb3J0fGVufDB8fHx8MTcwNTA5NTkxMnww&ixlib=rb-4.0.3&q=80&w=1080"
+                 borderRadius="md" boxSize='240px'/>
           <Heading as="h1" size="2xl" textAlign="center">
             Mental Health Support Hub
           </Heading>
