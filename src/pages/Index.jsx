@@ -2,6 +2,7 @@ import { Box, Button, Container, Flex, Heading, Input, Stack, Text, useToast, VS
 import { FaCalendarAlt, FaBook, FaInfoCircle } from "react-icons/fa";
 
 const Index = () => {
+  console.log("idenx")
   const toast = useToast();
 
   const handleSubmit = (event) => {
@@ -16,7 +17,7 @@ const Index = () => {
     });
   };
 
-  console.log("hello in react");
+  console.log("hello in component react");
 
   return (
     <Container maxW="container.xl" p={4}>
